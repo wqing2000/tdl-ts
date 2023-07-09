@@ -1,0 +1,17 @@
+{
+  "name": "tdl-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:w": "tsc -w",
+    "test": "tsd"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
